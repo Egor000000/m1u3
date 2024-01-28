@@ -1,5 +1,5 @@
 import telebot # библиотека Эдвард Хайда
-from config import token # импорт токена
+from config import token # импорт токена телеграмм бота
 
 bot = telebot.TeleBot(token) 
 
